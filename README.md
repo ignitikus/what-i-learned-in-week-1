@@ -4,7 +4,7 @@
 * In general flowcharts consist of `Input/Output, Decision, Action`. They help with a workflow. 
 ---
 ## Human Resource Machine
-* A game that help with programming rationale. 
+* A game that helps with programming rationale. 
 ---
 ## HTML
 * "Bones" of a website.
